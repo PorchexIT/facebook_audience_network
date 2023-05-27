@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project is based on a user requirement to integrate facebook ads to their software. This feature is integrated through Facebook Audience Network (https://pub.dev/packages/facebook_audience_network). 
 
-A few resources to get you started if this is your first Flutter project:
+Various kinds of Ads like Banner Ad, Native Ad, Native banner Ad, Interstitial Ad. Other apps like Rewarded ad and so on could be accomplished through third party package libraries. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Other steps needed like: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Facebook Monetisation Manager (https://business.facebook.com/)
+Meta Audience Network Documentation (https://developers.facebook.com/docs/audience-network)
